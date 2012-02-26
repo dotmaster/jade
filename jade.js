@@ -719,7 +719,7 @@ var Parser = require('./parser')
  * Library version.
  */
 
-exports.version = '0.20.0';
+exports.version = '0.20.3_custom';
 
 /**
  * Expose self closing tags.
